@@ -17,7 +17,7 @@ The goal of this project is to create a report that documents the functional saf
 ### Project directory content:
 
 * [README.md](README.md) - This file.
-* [doc/](doc/) folder - The documents in Microsoft Office format
+* [docs/](docs/) folder - The documents in Microsoft Office format
 * [pdf/](pdf/) folder - The documents in PDF format
 
 ### Reflection
